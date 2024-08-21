@@ -1,0 +1,18 @@
+.container{
+    margin-left: 70vh;
+    margin-top: 20vh;
+}
+
+#color-box{
+    width: 60vh;
+    height: 40vh;
+    background-color: blue;
+}
+
+#change-color-btn{
+    background-color: rgb(255, 136, 0);
+    width: 30vh;
+    height: 5vh;
+    margin-left: 15vh;
+    margin-top: 3vh;
+}
